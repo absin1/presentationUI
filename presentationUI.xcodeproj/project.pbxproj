@@ -12,6 +12,7 @@
 		BC1A7B50200E0D5100F5C369 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC1A7B4E200E0D5100F5C369 /* Main.storyboard */; };
 		BC1A7B52200E0D5100F5C369 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC1A7B51200E0D5100F5C369 /* Assets.xcassets */; };
 		BC1A7B55200E0D5100F5C369 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC1A7B53200E0D5100F5C369 /* LaunchScreen.storyboard */; };
+		BC1A7B5D200E290D00F5C369 /* PresentationLesson.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC1A7B5C200E290D00F5C369 /* PresentationLesson.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BC1A7B51200E0D5100F5C369 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC1A7B54200E0D5100F5C369 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BC1A7B56200E0D5100F5C369 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC1A7B5C200E290D00F5C369 /* PresentationLesson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentationLesson.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				BC1A7B51200E0D5100F5C369 /* Assets.xcassets */,
 				BC1A7B53200E0D5100F5C369 /* LaunchScreen.storyboard */,
 				BC1A7B56200E0D5100F5C369 /* Info.plist */,
+				BC1A7B5C200E290D00F5C369 /* PresentationLesson.swift */,
 			);
 			path = presentationUI;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BC1A7B5D200E290D00F5C369 /* PresentationLesson.swift in Sources */,
 				BC1A7B4D200E0D5100F5C369 /* ViewController.swift in Sources */,
 				BC1A7B4B200E0D5100F5C369 /* AppDelegate.swift in Sources */,
 			);
